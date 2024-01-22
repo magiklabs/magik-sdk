@@ -1,3 +1,8 @@
+## ⚠️ THIS REPOSITORY HAS MOVED ⚠️
+The latest version of this repository is now at https://github.com/athina-ai/athina-evals
+
+--------
+
 _Magik is an LLM output testing SDK + observability platform that helps you write tests and monitor your app in production_.
 <br /><br />
 
