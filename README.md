@@ -1,9 +1,11 @@
 ## ⚠️ THIS REPOSITORY HAS MOVED ⚠️
 The latest version of this repository is now at https://github.com/athina-ai/athina-evals
 
+[Docs](https://docs.athina.ai)
+
 --------
 
-_Magik is an LLM output testing SDK + observability platform that helps you write tests and monitor your app in production_.
+_Athina is an LLM output testing SDK + observability platform that helps you write tests and monitor your app in production_.
 <br /><br />
 
 # Overview
@@ -36,15 +38,15 @@ Eyeballing the responses from an LLM can work in development, but it’s not a g
 
 See https://docs.magiklabs.app for instructions on how to write and run tests.
 
-- [Overview](https://docs.magiklabs.app/)
-- [Quick Start](https://docs.magiklabs.app/quick-start)
-- [Writing Tests](https://docs.magiklabs.app/reference/writing-tests)
+- [Overview](https://docs.athina.ai/)
+- [Quick Start](https://docs.athina.ai/quick_start)
+- [Writing Tests](https://docs.athina.ai/evals)
   - [Evaluator Functions](https://docs.magiklabs.app/reference/writing-tests/evaluator-functions)
   - [What kind of tests can I write](https://docs.magiklabs.app/reference/writing-tests/what-kind-of-tests-can-i-write)
   - [How does the LLM grader work?](https://docs.magiklabs.app/reference/writing-tests/how-does-the-llm-grader-work)
 - [Running Tests](https://docs.magiklabs.app/reference/running-tests)
 - [Deploying Tests](https://docs.magiklabs.app/reference/deploying-tests)
-- [Logging your production data](https://docs.magiklabs.app/reference/logging-your-production-data)
+- [Logging your production data](https://docs.athina.ai/logging)
 
 <br />
 
